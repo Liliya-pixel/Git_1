@@ -9,7 +9,7 @@ partial class Program
         int y = a.GetLength(0);
         int x = a.GetLength(1);
 
-        int[] sort = new int[x * y];
+        int[] sort =  int[x * y];
 
         int counter = 0;
         for (int i = 0; i < y; i++)
