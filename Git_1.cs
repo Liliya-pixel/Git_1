@@ -33,7 +33,7 @@ partial class Program
 
                 Console.Write(a[i, j] + "");
             }
-            Console.WriteLine();
+            
 
         }
     }
