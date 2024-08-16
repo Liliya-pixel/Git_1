@@ -5,7 +5,7 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        int[,] a = { { 7, 3, 2 }, { 4, 9, 6 }, { 1, 8, 5 } };
+        int[,] a = { { 7, 3, 4 }, { 4, 9, 6 }, { 1, 8, 5 } };
         int y = a.GetLength(0);
         int x = a.GetLength(1);
 
